@@ -1,0 +1,22 @@
+{
+  "name": "@sarlaky190014/passwordgenerator",
+  "version": "0.1.0",
+  "description": "Simple password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarlakY190014/pwd-gen.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Sarlak Yunusemre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarlakY190014/pwd-gen/issues"
+  },
+  "homepage": "https://github.com/SarlakY190014/pwd-gen#readme"
+}
